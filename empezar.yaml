@@ -1730,8 +1730,8 @@ endpoints:
 
     # xAIMat
     # http://181.142.135.244:3000
-    - name: "gpt-3.5-turbo-instruct"
-      apiKey: "fdgdfgsgrgergsergr"
+    - name: "gpt-3.5-turbo-instructMat"
+      apiKey: "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"
       baseURL: "http://181.142.135.244:3000/v1"
       models:
         default:
